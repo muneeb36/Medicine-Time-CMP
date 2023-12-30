@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">
+        <light>0x2A2A2A</light>
+        <dark>0x2A2A2A</dark>
+    </color>
+    <color name="secondTextColor">
+        <light>0x8D94A2</light>
+        <dark>0x8D94A2</dark>
+    </color>
+    <color name="thirdTextColor">
+        <light>0x1C9FE2</light>
+        <dark>0x1C9FE2</dark>
+    </color>
+    <color name="categoryBgColor">
+        <light>0xF6F8FA</light>
+        <dark>0xF6F8FA</dark>
+    </color>
+    <color name="white">
+        <light>0xFFFFFF</light>
+        <dark>0xFFFFFF</dark>
+    </color>
+    <color name="backgroundColor">
+        <light>0xFFFFFF</light>
+        <dark>0xFFFFFF</dark>
+    </color>
+    <color name="primaryColor">
+        <light>0x1C9FE2</light>
+        <dark>0x1C9FE2</dark>
+    </color>
+    <color name="reviewBodyBg">
+        <light>0xF6F8FA</light>
+        <dark>0xF6F8FA</dark>
+    </color>
+    <color name="yellow">
+        <light>0xF8E545</light>
+        <dark>0xF8E545</dark>
+    </color>
+    <color name="red">
+        <light>0xFF2828</light>
+        <dark>0xFF2828</dark>
+    </color>
+	<color name="textColor_main">
+        <light>0x6B6EBE</light>
+        <dark>0x6B6EBE</dark>
+    </color>
+	<color name="ok_button_color">
+        <light>0x1C76AA</light>
+        <dark>0x1C76AA</dark>
+    </color>
+	<color name="ok_button_unselected_color">
+        <light>0x801C76AA</light>
+        <dark>0x801C76AA</dark>
+    </color>
+	<color name="item_bg_gray">
+        <light>0xF0F0F0</light>
+        <dark>0xF0F0F0</dark>
+    </color>
+
+</resources>

@@ -1,0 +1,53 @@
+
+createTable:
+CREATE TABLE IF NOT EXISTS patient_medicines (
+    medicine_id INTEGER PRIMARY KEY AUTOINCREMENT,
+  medicine_name TEXT NOT NULL ,
+  medicine_time INTEGER NOT NULL ,
+  medicine_time_eng TEXT NOT NULL ,
+  medicine_dosage INTEGER NOT NULL
+);
+
+-- CREATE INDEX hockeyPlayer_full_name ON patient_medicines(full_name);
+
+-- INSERT INTO patient_medicines (player_number, full_name)
+-- VALUES (15, 'Ryan Getzlaf');
+
+
+selectAll:
+SELECT *
+FROM patient_medicines;
+
+insert:
+INSERT INTO patient_medicines(medicine_name, medicine_time ,medicine_time_eng, medicine_dosage)
+VALUES (?, ? ,?, ?);
+
+-- insertFullPlayerObject:
+-- INSERT INTO patient_medicines(player_number, full_name)
+-- VALUES ?;
+
+SelectMediByName:
+SELECT * FROM patient_medicines WHERE medicine_name = ?;
+
+
+GetRecentMedicineTime:
+SELECT MAX(medicine_time) AS recent_medicine_time FROM patient_medicines;
+
+GetEarliestMedicineTime:
+SELECT MIN(medicine_time) AS earliest_medicine_time FROM patient_medicines;
+
+
+UpdateDoseNtime:
+UPDATE patient_medicines
+SET medicine_dosage = ?,
+    medicine_time = ?
+WHERE medicine_name = ?;
+
+-- // Execute the update query
+-- val updatedRows = database.useTransaction {
+--     UpdateMedicineDetails(medicineDosage, medicineTime, medicineName).executeAsOne()
+-- }
+
+
+DeleteMedicine:
+DELETE FROM patient_medicines WHERE medicine_name = ?;

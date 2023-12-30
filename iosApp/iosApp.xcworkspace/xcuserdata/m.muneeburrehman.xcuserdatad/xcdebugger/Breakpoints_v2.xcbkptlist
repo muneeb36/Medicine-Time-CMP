@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "80578A63-7FB2-4BCA-A8E8-ACEF7E11E08E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57D223DD-F9AA-44BC-95C8-090C6E048F40"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosApp/dateTimePicker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "57D223DD-F9AA-44BC-95C8-090C6E048F40 - 215a8ba1bd06884b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Medicine_Time.DatePickerTextField.date.getter : Swift.Optional&lt;Foundation.Date&gt;"
+                  moduleName = "Medicine Time"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MyDrive/KMP_Projects/GIT/Medicine-Time-CMM/iosApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "57D223DD-F9AA-44BC-95C8-090C6E048F40 - 5b99e7442e4abc57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Medicine_Time.DatePickerTextField.date.setter : Swift.Optional&lt;Foundation.Date&gt;"
+                  moduleName = "Medicine Time"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MyDrive/KMP_Projects/GIT/Medicine-Time-CMM/iosApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "57D223DD-F9AA-44BC-95C8-090C6E048F40 - b9fbd859f4f36548"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Medicine_Time.DatePickerTextField.date.modify : Swift.Optional&lt;Foundation.Date&gt;"
+                  moduleName = "Medicine Time"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MyDrive/KMP_Projects/GIT/Medicine-Time-CMM/iosApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "57D223DD-F9AA-44BC-95C8-090C6E048F40 - 726d3cd69d78f91d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Medicine_Time.DatePickerTextField.date.modify : Swift.Optional&lt;Foundation.Date&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Medicine Time"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MyDrive/KMP_Projects/GIT/Medicine-Time-CMM/iosApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "57D223DD-F9AA-44BC-95C8-090C6E048F40 - f985f19e45cf7ff9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Medicine_Time.DatePickerTextField.$date.getter : SwiftUI.Binding&lt;Swift.Optional&lt;Foundation.Date&gt;&gt;"
+                  moduleName = "Medicine Time"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MyDrive/KMP_Projects/GIT/Medicine-Time-CMM/iosApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
